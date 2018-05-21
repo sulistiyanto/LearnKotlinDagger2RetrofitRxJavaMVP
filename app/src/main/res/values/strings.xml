@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Learn Kotlin Dagger2 Retrofit RxJava MVP</string>
+    <string name="action_settings">Settings</string>
+</resources>
